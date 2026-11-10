@@ -1,7 +1,6 @@
 # Global Palm Oil Trade Atlas
 
-Interactive comparison of Indonesia and Malaysia palm oil exports, 2020–2024, using UN Comtrade data.
-
+Developed an interactive trade analytics dashboard using UN Comtrade data (2020–2024) to examine Indonesia's and Malaysia's palm oil export dependence. Analysed destination-market concentration, shifts in export relationships and potential exposure to changes in international demand. Transformed raw trade statistics into interactive maps, comparative visualisations and research-driven insights.
 ## Files
 - `index.html` — self-contained website. Trade data is embedded; the CSV files are **not required** for the website to run.
 - `data/indonesia_palm_oil_exports_2020_2024_clean.csv` — cleaned Indonesia partner-level exports.

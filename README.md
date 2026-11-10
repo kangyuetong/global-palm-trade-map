@@ -1,6 +1,6 @@
 # Global Palm Oil Trade Atlas
 
-🌐 **[Explore the Interactive Dashboard](https://kangyuetong.github.io/global-palm-trade-map/)**
+<a href="https://kangyuetong.github.io/global-palm-trade-map/" target="_blank" rel="noopener noreferrer">🌐 Explore the Interactive Dashboard</a>
 
 Developed an interactive trade analytics dashboard using UN Comtrade data (2020–2024) to examine Indonesia's and Malaysia's palm oil export dependence. Analysed destination-market concentration, shifts in export relationships and potential exposure to changes in international demand. Transformed raw trade statistics into interactive maps, comparative visualisations and research-driven insights.
 
